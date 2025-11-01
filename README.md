@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<https://www.biathlonworld.com/>
-[text](https://www.biathlonworld.com/)
+<https://www.biathlonworld.com/><br>
+[text](https://www.biathlonworld.com/)\
 [text](https://www.biathlonworld.com/ "lalala")
