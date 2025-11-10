@@ -21,3 +21,13 @@ Here are some ideas to get you started:
 Link [test](https://github.com/theSkyKV/Exdevs__testing)\
 <https://yandex.ru/games/#app=469022>\
 <img width="712" height="379" alt="1" src="https://github.com/user-attachments/assets/c9432dce-0716-425f-a3ec-779738f99c79" />
+
+
+#### Summary
+* 3+ years of experience as a C# programmer
+* 1.5 years of experience as a gameplay programmer
+* Experience with Unity, ECS, DI
+
+#### Projects
+[Abilty system](https://github.com/theSkyKV/Exdevs__testing) that we use in our [Idle RPG project](https://yandex.ru/games/#app=469022)<br>
+<img width="379" height="379" alt="1" src="https://github.com/user-attachments/assets/bdf5e14d-5c7a-4d4e-8ae8-f732ac1a2712" />
