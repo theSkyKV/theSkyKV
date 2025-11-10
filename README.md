@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <https://www.biathlonworld.com/> Biathlon world<br>
 [text](https://www.biathlonworld.com/)\
-[text](https://www.biathlonworld.com/ "lalala")
+[text](https://www.biathlonworld.com/ "lalala")\
 
-
+Link [test](https://github.com/theSkyKV/Exdevs__testing)\
+<https://yandex.ru/games/#app=469022>\
 <img width="712" height="379" alt="1" src="https://github.com/user-attachments/assets/c9432dce-0716-425f-a3ec-779738f99c79" />
