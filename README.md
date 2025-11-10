@@ -31,3 +31,7 @@ Link [test](https://github.com/theSkyKV/Exdevs__testing)\
 #### Projects
 [Abilty system](https://github.com/theSkyKV/Exdevs__testing) that we use in our [Idle RPG project](https://yandex.ru/games/#app=469022)<br>
 <img width="379" height="379" alt="1" src="https://github.com/user-attachments/assets/bdf5e14d-5c7a-4d4e-8ae8-f732ac1a2712" />
+[![Moonshards - Idle RPG](https://github.com/user-attachments/assets/bdf5e14d-5c7a-4d4e-8ae8-f732ac1a2712)](https://yandex.ru/games/#app=469022)<br>
+<a href="https://yandex.ru/games/#app=469022" target="_blank">
+<img width="379" height="379" alt="Moonshards - Idle RPG" src="https://github.com/user-attachments/assets/bdf5e14d-5c7a-4d4e-8ae8-f732ac1a2712" />
+</a>
