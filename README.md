@@ -37,3 +37,4 @@ Link [test](https://github.com/theSkyKV/Exdevs__testing)\
 </a>
 [Константин Валеров Gameplay программист резюме.pdf](https://github.com/user-attachments/files/23566663/Gameplay.pdf)
 [Konstantin Valerov AI programmer cv.pdf](https://github.com/user-attachments/files/23566672/Konstantin.Valerov.AI.programmer.cv.pdf)
+[Konstantin_Valerov_Gameplay_programmer_cv.pdf](https://github.com/user-attachments/files/23566676/Konstantin_Valerov_Gameplay_programmer_cv.pdf)
