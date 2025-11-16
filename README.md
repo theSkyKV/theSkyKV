@@ -35,3 +35,4 @@ Link [test](https://github.com/theSkyKV/Exdevs__testing)\
 <a href="https://yandex.ru/games/#app=469022" target="_blank" rel="noopener noreferrer">
 <img width="379" height="379" alt="Moonshards - Idle RPG" src="https://github.com/user-attachments/assets/bdf5e14d-5c7a-4d4e-8ae8-f732ac1a2712" />
 </a>
+[Константин Валеров Gameplay программист резюме.pdf](https://github.com/user-attachments/files/23566663/Gameplay.pdf)
